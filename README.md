@@ -148,11 +148,11 @@ System administration interface for monitoring the data pipeline:
 
 Provides visibility into the backend ETL processes and dual-write architecture maintenance.  There are five such services.  The charts show useful information detailing the data volume and associated timing:
 
-<img width="1522" alt="image" src="https://github.ibm.com/Data-Labs/affiliate-junction-demo/assets/521800/e63bf795-3bd0-4870-9afd-220db0cb73a3">
+<img width="1522" alt="image" src="https://github.com/Moeshra/WatsonX-Data-workshop/assets/521800/e63bf795-3bd0-4870-9afd-220db0cb73a3">
 
 All queries associated with the services themselves are also captured.  These queries are visible from within the query discovery slider:
 
-<img width="1522" alt="image" src="https://github.ibm.com/Data-Labs/affiliate-junction-demo/assets/521800/be775619-ed1c-4655-96e5-ea46d3c8bdc7">
+<img width="1522" alt="image" src="Moeshra/WatsonX-Data-workshop/affiliate-junction-demo/assets/521800/be775619-ed1c-4655-96e5-ea46d3c8bdc7">
 
 Some services have tunables that can be dynamically changed from their defaults from within this screen.  Changes take affect within a minute:
 
