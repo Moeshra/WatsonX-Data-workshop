@@ -44,7 +44,7 @@ The web interface provides role-based dashboards demonstrating federated analyti
 
 Login with the user `watsonx` and password `watsonx.data`.
 
-<img width="1483" alt="image" src="https://github.ibm.comMoeshra/WatsonX-Data-workshop/tree/main/web/521800/543d989d-3dcf-4dd9-be66-6a2484858f86">
+<img width="1483" alt="image" src="https://raw.githubusercontent.com/Moeshra/WatsonX-Data-workshop/main/images/543d989d-3dcf-4dd9-be66-6a2484858f86.png">
 
 
 #### Dashboard Overview (Index)
@@ -52,7 +52,7 @@ Login with the user `watsonx` and password `watsonx.data`.
 
 The main landing page provides a comprehensive overview of the affiliate marketing ecosystem with real-time metrics and navigation to specialized views. Features quick access to key performance indicators and system health status.  It serves to orient attendees to the purpose and flow of the data as part of this demo.
 
-<img width="1522" alt="image" src="https://github.ibm.com/Moeshra/WatsonX-Data-workshop/images/6c0c58d6-6e40-4ab4-a707-e16908f2251c">
+<img width="1522" alt="image" src="https://raw.githubusercontent.com/Moeshra/WatsonX-Data-workshop/main/images/6c0c58d6-6e40-4ab4-a707-e16908f2251c.png">
 
 
 #### Query Viewer
@@ -75,9 +75,9 @@ The Query Viewer showcases the dual-write architecture in action by displaying h
 **Access Method:**
 Click the query panel toggle button (typically located on the right side of any screen) to reveal the sliding panel interface. The badge indicator shows the count of unread queries, and the panel maintains separate counters for HCD and Presto operations.
 
-<img width="1522" alt="image" src="https://github.ibm.com//Moeshra/WatsonX-Data-workshop/images/a663601b-906b-4987-8c38-123dc43d7ff5">
+<img width="1522" alt="image" src="https://raw.githubusercontent.com/Moeshra/WatsonX-Data-workshop/main/images/a663601b-906b-4987-8c38-123dc43d7ff5.png">
 
-<img width="1522" alt="image" src="https://github.ibm.com//Moeshra/WatsonX-Data-workshop/images/2b2a3db4-13ab-4d7b-8889-0cd966edaa77">
+<img width="1522" alt="image" src="https://raw.githubusercontent.com/Moeshra/WatsonX-Data-workshop/main/images/2b2a3db4-13ab-4d7b-8889-0cd966edaa77.png">
 
 
 #### Publisher Dashboard
@@ -91,7 +91,7 @@ Dedicated view for content publishers showing their performance metrics includin
 
 Demonstrates web-scale access to pre-processed data that has been staged inside HCD
 
-<img width="1522" alt="image" src="https://github.ibm.com//Moeshra/WatsonX-Data-workshop/images/ebceb4b5-db9d-401a-aa66-c8cd561f944e">
+<img width="1522" alt="image" src="https://raw.githubusercontent.com/Moeshra/WatsonX-Data-workshop/main/images/ebceb4b5-db9d-401a-aa66-c8cd561f944e.png">
 
 
 #### Advertiser Dashboard  
@@ -105,15 +105,15 @@ Campaign management interface for advertisers featuring:
 
 Showcases dual-write pattern benefits by combining immediate feedback from HCD with deep analytical views from the data lake.
 
-<img width="1522" alt="image" src="https://github.ibm.com//Moeshra/WatsonX-Data-workshop/images/521800/73681f5f-8d5f-47b7-bb02-c137a4da8b9d">
+<img width="1522" alt="image" src="https://raw.githubusercontent.com/Moeshra/WatsonX-Data-workshop/main/images/73681f5f-8d5f-47b7-bb02-c137a4da8b9d.png">
 
 Dive into the historical journey of any specific conversion.  We by showing the list of recent coversions (via HCD):
 
-<img width="1522" alt="image" src="https://github.ibm.com//Moeshra/WatsonX-Data-workshop/images/521800/728b84dc-4d1a-41bf-89b6-c750039679ec">
+<img width="1522" alt="image" src="https://raw.githubusercontent.com/Moeshra/WatsonX-Data-workshop/main/images/728b84dc-4d1a-41bf-89b6-c750039679ec.png">
 
 Expanding any of the accordion elements generates a Presto query that shows the entire timeline from first impression to conversion:
 
-<img width="1522" alt="image" src="https://github.ibm.com//Moeshra/WatsonX-Data-workshop/images/47312bec-270e-4c34-a1bb-9121e0d85e80">
+<img width="1522" alt="image" src="https://raw.githubusercontent.com/Moeshra/WatsonX-Data-workshop/main/images/47312bec-270e-4c34-a1bb-9121e0d85e80.png">
 
 
 #### Fraud Detection Dashboard
@@ -129,11 +129,11 @@ Demonstrates complex analytical capabilities enabled by watsonx.data's federated
 
 This page loads in two stages.  The table is first generated with data from a fast Presto query against the HCD datasource:
 
-<img width="1522" alt="image" src="https://github.ibm.com//Moeshra/WatsonX-Data-workshop/images/837f79de-7ed7-45bf-9549-e1f66fa13087">
+<img width="1522" alt="image" src="https://raw.githubusercontent.com/Moeshra/WatsonX-Data-workshop/main/images/837f79de-7ed7-45bf-9549-e1f66fa13087.png">
 
 The page is then refined by looking at all historical information using a federated HCD/Iceberg query via Presto:
 
-<img width="1522" alt="image" src="https://github.ibm.com/Moeshra/WatsonX-Data-workshop/images/457a86c0-a47a-40b4-b8eb-045b69a92efa">
+<img width="1522" alt="image" src="https://raw.githubusercontent.com/Moeshra/WatsonX-Data-workshop/main/images/457a86c0-a47a-40b4-b8eb-045b69a92efa.png">
 
 
 
