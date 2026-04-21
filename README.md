@@ -44,7 +44,7 @@ The web interface provides role-based dashboards demonstrating federated analyti
 
 Login with the user `watsonx` and password `watsonx.data`.
 
-<img width="1483" alt="image" src="https://github.ibm.com/Data-Labs/affiliate-junction-demo/assets/521800/543d989d-3dcf-4dd9-be66-6a2484858f86">
+<img width="1483" alt="image" src="https://github.ibm.comMoeshra/WatsonX-Data-workshop/tree/main/web/521800/543d989d-3dcf-4dd9-be66-6a2484858f86">
 
 
 #### Dashboard Overview (Index)
@@ -52,7 +52,7 @@ Login with the user `watsonx` and password `watsonx.data`.
 
 The main landing page provides a comprehensive overview of the affiliate marketing ecosystem with real-time metrics and navigation to specialized views. Features quick access to key performance indicators and system health status.  It serves to orient attendees to the purpose and flow of the data as part of this demo.
 
-<img width="1522" alt="image" src="https://github.ibm.com/Data-Labs/affiliate-junction-demo/assets/521800/6c0c58d6-6e40-4ab4-a707-e16908f2251c">
+<img width="1522" alt="image" src="https://github.ibm.com/Data-Labs/affiliate-junction-demo/tree/main/web/521800/6c0c58d6-6e40-4ab4-a707-e16908f2251c">
 
 
 #### Query Viewer
